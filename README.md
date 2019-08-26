@@ -41,10 +41,10 @@ alt="HTML Tutorial" width="500" height="300" border="10" /></a>
 
 #### Here I tried to add images
 
-![html](https://github.com/AlekyaPochampally/alekyapochampally.github.io/blob/master/cdn_MkqQox71nIiFVC3b2R15-rElqNHf7SJv.jpg)
+![](https://github.com/AlekyaPochampally/alekyapochampally.github.io/blob/master/cdn_MkqQox71nIiFVC3b2R15-rElqNHf7SJv.jpg)
 
 Pic Source: https://www.studyusa.com/en/schools/p/mo012/northwest-missouri-state-university
 
-![html](https://github.com/AlekyaPochampally/alekyapochampally.github.io/blob/master/adminsnowfall1.jpg)
+![](https://github.com/AlekyaPochampally/alekyapochampally.github.io/blob/master/adminsnowfall1.jpg)
 
 Pic Source: https://www.nwmissouri.edu/media/news/2015/11/13winterweatherawareness.htm
